@@ -11,4 +11,4 @@ Libraries needed to analyze the data:
 4. Matplotlib
 
 
-![Alt text](Child_Language_Acquisition_Analysis/result_heatmap_cd.png)
+![Child_Language_Acquisition_Analysis/result_heatmap_cd.png](https://github.com/obiasaidi/Child_Language_Acquisition_Analysis/blob/main/result_heatmap_cd.png))
